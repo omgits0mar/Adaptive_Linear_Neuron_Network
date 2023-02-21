@@ -1,6 +1,7 @@
 # Adaline Neural Network Implementation with GUI
 
-This repository contains an implementation of the Adaline neural network algorithm with a graphical user interface (GUI) for easy visualization and hyperparameter tuning. 
+This repository contains an implementation of the Adaline neural network algorithm with a graphical user interface (GUI) for easy visualization and hyperparameter tuning.
+You can check the documentation file attached for full guide : ![Documentation](SC_H8/Task2-report.docx)
 
 ## Features
 
