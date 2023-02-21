@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import operations
 
 win = tk.Tk()
-win.title("Task 1")# Label
+win.title("Task 2")# Label
 win.geometry("600x340")
 win.resizable(False, False)
 
