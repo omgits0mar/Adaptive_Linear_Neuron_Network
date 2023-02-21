@@ -10,12 +10,16 @@ This repository contains an implementation of the Adaline neural network algorit
 
 ## Visualizations
 
-Below are some visualizations of the performance of the Adaline neural network on various datasets:
+Below are some statistics visualizations of the performance of the Adaline neural network on various datasets:
 
-![Visualization 1](.SC_H8/pics/312799566_1131429047742469_1702210496415453161_n.png)
-![Visualization 2](.SC_H8/pics/309384560_535820917897616_5197100369219072598_n.png)
-![Visualization 3](.SC_H8/pics/313493399_1390591171464757_5782310689271119850_n.png)
-![Visualization 3](.SC_H8/pics/313493399_1390591171464757_5782310689271119850_n.png)
+- ![Visualization 1](SC_H8/pics/309384560_535820917897616_5197100369219072598_n.png)
+![Visualization 2](SC_H8/pics/310633594_517481083325436_2743525764631618731_n.png)
+- ![Visualization 3](SC_H8/pics/312799566_1131429047742469_1702210496415453161_n.png)
+![Visualization 3](SC_H8/pics/313493399_1390591171464757_5782310689271119850_n.png)
+
+## GUI
+- ![GUI 1](SC_H8/pics/Picture1.png)
+
 
 ## Usage
 
